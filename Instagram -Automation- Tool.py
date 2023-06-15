@@ -62,7 +62,7 @@ profile = (
 # followers = (
 #     WebDriverWait(driver, 10.00)
 #     .until(
-#         EC.element_to_be_clickable((By.CSS_SELECTOR, '//a[href="/divinebulls50/followers/"]'))
+#         EC.element_to_be_clickable((By.CSS_SELECTOR, '//a[href="/{}/followers/"]'))
 #     )
 #     .click()
 # )
