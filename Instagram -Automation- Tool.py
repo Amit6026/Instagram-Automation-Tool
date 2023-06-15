@@ -29,9 +29,9 @@ password = WebDriverWait(driver, 10).until(
 )
 
 username.clear()
-username.send_keys("")
+username.send_keys("your instagram account name")
 password.clear()
-password.send_keys("")
+password.send_keys("your password")
 
 
 # time.sleep(2)
